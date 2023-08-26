@@ -6,11 +6,11 @@ This type of application is often used to prevent your PC from entering sleep mo
 
 1. First of all, you need to have installed ```VS Code``` with ```Python Extension```, and then you need to download or pull code from this repository.
   
-2. Then you need to open your ```cmd``` or ```Windows PowerShell```, and navigate towards the downloaded directory using this command: ```cd "YourDisk:\Downloads\Mouse-Mover-main"```, and then run these set of commands one by one:
+2. Then you need to open your ```Command Prompt``` or ```Windows PowerShell```, and navigate towards the downloaded directory using this command: ```cd "Disk:\directory\to\your\project\Mouse-Mover-main"```, and then run these set of commands one by one:
    
-    +```pip install Flask```
-    +```pip install pynput```
-    +```pip install sysmonitor```
+    + ```pip install Flask```
+    + ```pip install pynput```
+    + ```pip install sysmonitor```
    
 4. Then open Mouse-Mover-main folder using VS Code, and open ```app.py``` file, and run it by pressing an arrow on the top right corner:
 
